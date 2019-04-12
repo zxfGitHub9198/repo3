@@ -5,7 +5,8 @@ public class Test {
         System.out.println("hello");
     }
 
-    public void test(){
-        System.out.println("ddd");
+    public void test()
+    {
+        System.out.println("ddd2323232");
     }
 }
