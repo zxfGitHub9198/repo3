@@ -8,5 +8,6 @@ public class Test {
     public void test()
     {
         System.out.println("ddd2323232");
+        System.out.println("ddd2323232");
     }
 }
